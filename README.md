@@ -67,4 +67,4 @@ This repository tracks all historical deals for **E8 Markets** published on Prop
 
 ---
 
-Last synced: 2026-10-29T01:50:19Z (auto, hourly)
+Last synced: 2026-10-29T02:05:14Z (auto, hourly)
