@@ -26,26 +26,27 @@ Use discount code **CHUN** to get **50% off** on E8 Markets challenges and accou
 
 ## Latest Deal
 
-### E8 Markets - Half Price on Retiring Classic and Arc Evaluations
+### E8 Markets - Up to 50% Off Winter ARC Account Entry Fees
 
-**Published:** 2026-10-17  
-**Offer ends:** 2026-10-20 (ended)  
+**Published:** 2026-10-30  
+**Offer ends:** 2026-11-25  
 **Discount:** 50% off  
-**Scope:** Signature Classic (Forex) Evaluations, Arc Promotion  
+**Scope:** Classic Markets E8 Pro, Classic Markets E8 One, Perpetual Futures E8 Pro, Perpetual Futures E8 One, Futures E8 Signature, Futures E8 Zero, Challenge Fee, Evaluation Fee  
 **Code:** CHUN  
 
-**Deal page:** https://propfirmdiscount.com/deals/e8-funding/e8-markets-50-off-signature-classic/
+**Deal page:** https://propfirmdiscount.com/deals/e8-funding/e8-markets-winter-arc-promo-up-to-50-off/
 
 ---
 
 ## Deal History
 
-Total deals tracked: **17**
+Total deals tracked: **18**
 
-### 2026 (13 deals)
+### 2026 (14 deals)
 
 | Deal Date | Title | Discount | Expires | Deal Link |
 |---|---|---|---|---|
+| 2026-10-30 | Up to 50% Off Winter ARC Account Entry Fees | 50% off | 2026-11-25 | [View Deal](https://propfirmdiscount.com/deals/e8-funding/e8-markets-winter-arc-promo-up-to-50-off/) |
 | 2026-10-17 | Half Price on Retiring Classic and Arc Evaluations | 50% off | 2026-10-20 (ended) | [View Deal](https://propfirmdiscount.com/deals/e8-funding/e8-markets-50-off-signature-classic/) |
 | 2026-10-05 | Up To 50% Discount Plus First Payout Bonus Challenge Entitlement | 50% off | 2026-10-25 (ended) | [View Deal](https://propfirmdiscount.com/deals/e8-funding/e8-markets-winter-arc-promo-50-off/) |
 | 2026-08-27 | Up to 50% Off Challenge Fees and Perpetual Models | 50% off | Ended | [View Deal](https://propfirmdiscount.com/deals/e8-funding/e8-markets-up-to-50-percent-off-evaluations/) |
