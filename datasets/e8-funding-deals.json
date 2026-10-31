@@ -1,308 +1,380 @@
 [
   {
+    "prop_firm": "E8 Markets",
+    "prop_firm_slug": "e8-funding",
+    "standing_code": "CHUN",
+    "standing_discount": "50%",
+    "activation_link": "https://propfirmdiscount.com/go/e8funding",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/e8-funding/",
     "deal_id": 13064,
     "title": "Up to 50% Off Winter ARC Account Entry Fees",
-    "offer_type": "coupon",
+    "date_published": "2026-10-30",
+    "date_exp": "2026-11-25",
     "discount_value": "50%",
+    "last_verified": "2026-10-30",
+    "offer_type": "coupon",
     "scope": [
       "Classic Markets E8 Pro, Classic Markets E8 One, Perpetual Futures E8 Pro, Perpetual Futures E8 One, Futures E8 Signature, Futures E8 Zero, Challenge Fee, Evaluation Fee"
     ],
-    "date_published": "2026-10-30",
-    "date_exp": "2026-11-25",
-    "last_verified": "2026-10-30",
     "post_url": "https://propfirmdiscount.com/deals/e8-funding/e8-markets-winter-arc-promo-up-to-50-off/",
+    "code": "CHUN",
+    "code_state": "standing"
+  },
+  {
     "prop_firm": "E8 Markets",
     "prop_firm_slug": "e8-funding",
     "standing_code": "CHUN",
-    "code": "CHUN"
-  },
-  {
+    "standing_discount": "50%",
+    "activation_link": "https://propfirmdiscount.com/go/e8funding",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/e8-funding/",
     "deal_id": 12930,
     "title": "Half Price on Retiring Classic and Arc Evaluations",
-    "offer_type": "coupon",
+    "date_published": "2026-10-17",
+    "date_exp": "2026-10-20 (ended)",
     "discount_value": "50%",
+    "last_verified": "2026-10-17",
+    "offer_type": "coupon",
     "scope": [
       "Signature Classic (Forex) Evaluations, Arc Promotion"
     ],
-    "date_published": "2026-10-17",
-    "date_exp": "2026-10-20 (ended)",
-    "last_verified": "2026-10-17",
     "post_url": "https://propfirmdiscount.com/deals/e8-funding/e8-markets-50-off-signature-classic/",
+    "code": "CHUN",
+    "code_state": "standing"
+  },
+  {
     "prop_firm": "E8 Markets",
     "prop_firm_slug": "e8-funding",
     "standing_code": "CHUN",
-    "code": "CHUN"
-  },
-  {
+    "standing_discount": "50%",
+    "activation_link": "https://propfirmdiscount.com/go/e8funding",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/e8-funding/",
     "deal_id": 12822,
     "title": "Up To 50% Discount Plus First Payout Bonus Challenge Entitlement",
-    "offer_type": "coupon",
+    "date_published": "2026-10-05",
+    "date_exp": "2026-10-25 (ended)",
     "discount_value": "50%",
+    "last_verified": "2026-10-05",
+    "offer_type": "coupon",
     "scope": [
       "E8 Signature, E8 Pro, E8 One, Classic Markets, Perpetual Futures, Futures"
     ],
-    "date_published": "2026-10-05",
-    "date_exp": "2026-10-25 (ended)",
-    "last_verified": "2026-10-05",
     "post_url": "https://propfirmdiscount.com/deals/e8-funding/e8-markets-winter-arc-promo-50-off/",
+    "code": "CHUN",
+    "code_state": "standing"
+  },
+  {
     "prop_firm": "E8 Markets",
     "prop_firm_slug": "e8-funding",
     "standing_code": "CHUN",
-    "code": "CHUN"
-  },
-  {
+    "standing_discount": "50%",
+    "activation_link": "https://propfirmdiscount.com/go/e8funding",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/e8-funding/",
     "deal_id": 12788,
     "title": "Up to 50% Off Challenge Fees and Perpetual Models",
-    "offer_type": "coupon",
+    "date_published": "2026-08-27",
+    "date_exp": "Ended",
     "discount_value": "50%",
+    "last_verified": "2026-08-27",
+    "offer_type": "coupon",
     "scope": [
       "E8 Zero, Signature Futures, Signature Forex & Crypto, E8 One, E8 Pro, Perpetual Models"
     ],
-    "date_published": "2026-08-27",
-    "date_exp": "Ended",
-    "last_verified": "2026-08-27",
     "post_url": "https://propfirmdiscount.com/deals/e8-funding/e8-markets-up-to-50-percent-off-evaluations/",
+    "code": "CHUN",
+    "code_state": "standing"
+  },
+  {
     "prop_firm": "E8 Markets",
     "prop_firm_slug": "e8-funding",
     "standing_code": "CHUN",
-    "code": "CHUN"
-  },
-  {
+    "standing_discount": "50%",
+    "activation_link": "https://propfirmdiscount.com/go/e8funding",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/e8-funding/",
     "deal_id": 12076,
     "title": "30% Off E8Pro and 10% Off All Existing Evaluations",
-    "offer_type": "coupon",
+    "date_published": "2026-06-01",
+    "date_exp": "Ended",
     "discount_value": "30%",
+    "last_verified": "2026-06-01",
+    "offer_type": "coupon",
     "scope": [
       "E8Pro, Futures, Forex, Crypto, Evaluation Accounts"
     ],
-    "date_published": "2026-06-01",
-    "date_exp": "Ended",
-    "last_verified": "2026-06-01",
     "post_url": "https://propfirmdiscount.com/deals/e8-funding/e8-markets-30-off-e8pro-10-off-existing-accounts/",
+    "code": "CHUN",
+    "code_state": "standing"
+  },
+  {
     "prop_firm": "E8 Markets",
     "prop_firm_slug": "e8-funding",
     "standing_code": "CHUN",
-    "code": "CHUN"
-  },
-  {
+    "standing_discount": "50%",
+    "activation_link": "https://propfirmdiscount.com/go/e8funding",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/e8-funding/",
     "deal_id": 12061,
     "title": "30% Off E8PRO v2 and 10% Off All Other Evaluation Accounts",
-    "offer_type": "coupon",
+    "date_published": "2026-05-27",
+    "date_exp": "Ended",
     "discount_value": "30%",
+    "last_verified": "2026-05-27",
+    "offer_type": "coupon",
     "scope": [
       "E8Pro V2, All Other Evaluation Models, First Orders, Recurring Purchases"
     ],
-    "date_published": "2026-05-27",
-    "date_exp": "Ended",
-    "last_verified": "2026-05-27",
     "post_url": "https://propfirmdiscount.com/deals/e8-funding/e8-markets-30-off-e8pro-v2-evaluation/",
+    "code": "CHUN",
+    "code_state": "standing"
+  },
+  {
     "prop_firm": "E8 Markets",
     "prop_firm_slug": "e8-funding",
     "standing_code": "CHUN",
-    "code": "CHUN"
-  },
-  {
+    "standing_discount": "50%",
+    "activation_link": "https://propfirmdiscount.com/go/e8funding",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/e8-funding/",
     "deal_id": 11892,
     "title": "Up to 20% Off Signature and 10% Off E8 One Upfront Fee",
-    "offer_type": "coupon",
+    "date_published": "2026-05-06",
+    "date_exp": "Ended",
     "discount_value": "20%",
+    "last_verified": "2026-05-06",
+    "offer_type": "coupon",
     "scope": [
       "Signature, E8 One, 5K, 10K, 25K, 50K, 100K, 150K, 200K, 400K, 500K"
     ],
-    "date_published": "2026-05-06",
-    "date_exp": "Ended",
-    "last_verified": "2026-05-06",
     "post_url": "https://propfirmdiscount.com/deals/e8-funding/e8-markets-discount-signature-e8-one/",
+    "code": "CHUN",
+    "code_state": "standing"
+  },
+  {
     "prop_firm": "E8 Markets",
     "prop_firm_slug": "e8-funding",
     "standing_code": "CHUN",
-    "code": "CHUN"
-  },
-  {
+    "standing_discount": "50%",
+    "activation_link": "https://propfirmdiscount.com/go/e8funding",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/e8-funding/",
     "deal_id": 11745,
     "title": "40% Off Signature and 30% Off E8 One Challenge Pricing",
-    "offer_type": "coupon",
+    "date_published": "2026-04-20",
+    "date_exp": "Ended",
     "discount_value": "40%",
+    "last_verified": "2026-04-20",
+    "offer_type": "coupon",
     "scope": [
       "Signature, E8 One, All Account Sizes, First Order, Second Order"
     ],
-    "date_published": "2026-04-20",
-    "date_exp": "Ended",
-    "last_verified": "2026-04-20",
     "post_url": "https://propfirmdiscount.com/deals/e8-funding/e8-markets-discount-april-2026/",
+    "code": "CHUN",
+    "code_state": "standing"
+  },
+  {
     "prop_firm": "E8 Markets",
     "prop_firm_slug": "e8-funding",
     "standing_code": "CHUN",
-    "code": "CHUN"
-  },
-  {
+    "standing_discount": "50%",
+    "activation_link": "https://propfirmdiscount.com/go/e8funding",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/e8-funding/",
     "deal_id": 11695,
     "title": "40% Off Evaluation Accounts $50K and Under",
-    "offer_type": "coupon",
+    "date_published": "2026-04-07",
+    "date_exp": "Ended",
     "discount_value": "40%",
+    "last_verified": "2026-04-07",
+    "offer_type": "coupon",
     "scope": [
       "Signature Accounts, E8 One Accounts, Accounts $50K And Under"
     ],
-    "date_published": "2026-04-07",
-    "date_exp": "Ended",
-    "last_verified": "2026-04-07",
     "post_url": "https://propfirmdiscount.com/deals/e8-funding/e8-markets-40-percent-discount-50k-under/",
+    "code": "CHUN",
+    "code_state": "standing"
+  },
+  {
     "prop_firm": "E8 Markets",
     "prop_firm_slug": "e8-funding",
     "standing_code": "CHUN",
-    "code": "CHUN"
-  },
-  {
+    "standing_discount": "50%",
+    "activation_link": "https://propfirmdiscount.com/go/e8funding",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/e8-funding/",
     "deal_id": 11475,
     "title": "10% Off All Trading Challenges",
-    "offer_type": "coupon",
+    "date_published": "2026-03-17",
+    "date_exp": "Ended",
     "discount_value": "10%",
+    "last_verified": "2026-03-17",
+    "offer_type": "coupon",
     "scope": [
       "All Evaluations, New Purchases"
     ],
-    "date_published": "2026-03-17",
-    "date_exp": "Ended",
-    "last_verified": "2026-03-17",
     "post_url": "https://propfirmdiscount.com/deals/e8-funding/e8-markets-10-percent-off-evaluations/",
+    "code": "CHUN",
+    "code_state": "standing"
+  },
+  {
     "prop_firm": "E8 Markets",
     "prop_firm_slug": "e8-funding",
     "standing_code": "CHUN",
-    "code": "CHUN"
-  },
-  {
+    "standing_discount": "50%",
+    "activation_link": "https://propfirmdiscount.com/go/e8funding",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/e8-funding/",
     "deal_id": 11317,
     "title": "Up to 50% Discount on First Evaluation Purchases",
-    "offer_type": "coupon",
+    "date_published": "2026-03-03",
+    "date_exp": "Ended",
     "discount_value": "50%",
+    "last_verified": "2026-03-03",
+    "offer_type": "coupon",
     "scope": [
       "E8 Signature, E8 One, Initial Purchase, Additional Purchase"
     ],
-    "date_published": "2026-03-03",
-    "date_exp": "Ended",
-    "last_verified": "2026-03-03",
     "post_url": "https://propfirmdiscount.com/deals/e8-funding/e8-markets-50-percent-off-signature-one/",
+    "code": "CHUN",
+    "code_state": "standing"
+  },
+  {
     "prop_firm": "E8 Markets",
     "prop_firm_slug": "e8-funding",
     "standing_code": "CHUN",
-    "code": "CHUN"
-  },
-  {
+    "standing_discount": "50%",
+    "activation_link": "https://propfirmdiscount.com/go/e8funding",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/e8-funding/",
     "deal_id": 11165,
     "title": "20% Discount on Trading Challenge Entry Fees",
-    "offer_type": "coupon",
+    "date_published": "2026-02-13",
+    "date_exp": "Ended",
     "discount_value": "20%",
+    "last_verified": "2026-02-13",
+    "offer_type": "coupon",
     "scope": [
       "Evaluation Programs"
     ],
-    "date_published": "2026-02-13",
-    "date_exp": "Ended",
-    "last_verified": "2026-02-13",
     "post_url": "https://propfirmdiscount.com/deals/e8-funding/e8-markets-20-percent-discount-evaluation-accounts/",
+    "code": "CHUN",
+    "code_state": "standing"
+  },
+  {
     "prop_firm": "E8 Markets",
     "prop_firm_slug": "e8-funding",
     "standing_code": "CHUN",
-    "code": "CHUN"
-  },
-  {
+    "standing_discount": "50%",
+    "activation_link": "https://propfirmdiscount.com/go/e8funding",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/e8-funding/",
     "deal_id": 11112,
     "title": "20% Discount on Static Crypto Challenge (Until Feb 28)",
-    "offer_type": "coupon",
+    "date_published": "2026-02-09",
+    "date_exp": "Ended",
     "discount_value": "20%",
+    "last_verified": "2026-02-09",
+    "offer_type": "coupon",
     "scope": [
       "Static Crypto Plan, Limited Edition"
     ],
-    "date_published": "2026-02-09",
-    "date_exp": "Ended",
-    "last_verified": "2026-02-09",
     "post_url": "https://propfirmdiscount.com/deals/e8-funding/e8-markets-static-crypto-plan-discount/",
+    "code": "CHUN",
+    "code_state": "standing"
+  },
+  {
     "prop_firm": "E8 Markets",
     "prop_firm_slug": "e8-funding",
     "standing_code": "CHUN",
-    "code": "CHUN"
-  },
-  {
+    "standing_discount": "50%",
+    "activation_link": "https://propfirmdiscount.com/go/e8funding",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/e8-funding/",
     "deal_id": 11113,
     "title": "35% Discount on First Two Signature Accounts and 20% Off E8 One",
-    "offer_type": "coupon",
+    "date_published": "2026-01-28",
+    "date_exp": "Ended",
     "discount_value": "35%",
+    "last_verified": "2026-01-28",
+    "offer_type": "coupon",
     "scope": [
       "Signature Accounts, E8 One Accounts, Futures, Forex, Crypto"
     ],
-    "date_published": "2026-01-28",
-    "date_exp": "Ended",
-    "last_verified": "2026-01-28",
     "post_url": "https://propfirmdiscount.com/deals/e8-funding/e8-markets-signature-promo-35-off/",
+    "code": "CHUN",
+    "code_state": "standing"
+  },
+  {
     "prop_firm": "E8 Markets",
     "prop_firm_slug": "e8-funding",
     "standing_code": "CHUN",
-    "code": "CHUN"
-  },
-  {
+    "standing_discount": "50%",
+    "activation_link": "https://propfirmdiscount.com/go/e8funding",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/e8-funding/",
     "deal_id": 11114,
     "title": "25% Off New Signature 1-Step Model and $98 Entry Fee",
-    "offer_type": "coupon",
+    "date_published": "2025-12-04",
+    "date_exp": "Ended",
     "discount_value": "25%",
+    "last_verified": "2025-12-04",
+    "offer_type": "coupon",
     "scope": [
       "E8 Signature, 1-Step Challenge, Futures, Forex, Crypto"
     ],
-    "date_published": "2025-12-04",
-    "date_exp": "Ended",
-    "last_verified": "2025-12-04",
     "post_url": "https://propfirmdiscount.com/deals/e8-funding/e8-markets-signature-launch-25-percent-off/",
+    "code": "CHUN",
+    "code_state": "standing"
+  },
+  {
     "prop_firm": "E8 Markets",
     "prop_firm_slug": "e8-funding",
     "standing_code": "CHUN",
-    "code": "CHUN"
-  },
-  {
+    "standing_discount": "50%",
+    "activation_link": "https://propfirmdiscount.com/go/e8funding",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/e8-funding/",
     "deal_id": 7760,
     "title": "15% OFF + Free Reset (Limited-Time Safety Net)",
-    "offer_type": "coupon",
+    "date_published": "2025-09-26",
+    "date_exp": "Ended",
     "discount_value": "15%",
+    "last_verified": "2025-09-26",
+    "offer_type": "coupon",
     "scope": [
       "All Accounts"
     ],
-    "date_published": "2025-09-26",
-    "date_exp": "Ended",
-    "last_verified": "2025-09-26",
     "post_url": "https://propfirmdiscount.com/deals/e8-funding/e8-markets-15-off-free-reset-limited-time-safety-net/",
+    "code": "CHUN",
+    "code_state": "standing"
+  },
+  {
     "prop_firm": "E8 Markets",
     "prop_firm_slug": "e8-funding",
     "standing_code": "CHUN",
-    "code": "CHUN"
-  },
-  {
+    "standing_discount": "50%",
+    "activation_link": "https://propfirmdiscount.com/go/e8funding",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/e8-funding/",
     "deal_id": 156,
     "title": "5% OFF on Eligible Plans",
-    "offer_type": "coupon",
-    "discount_value": "5%",
-    "scope": [
-      "Eligible Plans"
-    ],
     "date_published": "2025-09-09",
     "date_exp": "Ended",
-    "last_verified": "2025-09-09",
-    "post_url": "https://propfirmdiscount.com/deals/e8-funding/coupon-10-for-e8-funding/",
-    "prop_firm": "E8 Markets",
-    "prop_firm_slug": "e8-funding",
-    "standing_code": "CHUN",
-    "code": "CHUN"
-  },
-  {
-    "deal_id": 6210,
-    "title": "5% OFF on Eligible Plans",
-    "offer_type": "coupon",
     "discount_value": "5%",
+    "last_verified": "2025-09-09",
+    "offer_type": "coupon",
     "scope": [
       "Eligible Plans"
     ],
-    "date_published": "2025-08-10",
-    "date_exp": "Ended",
-    "last_verified": "2025-08-10",
-    "post_url": "https://propfirmdiscount.com/deals/e8-funding/e8-funding-coupon-2025-get-the-latest-discount-for-your-challenge/",
+    "post_url": "https://propfirmdiscount.com/deals/e8-funding/coupon-10-for-e8-funding/",
+    "code": "CHUN",
+    "code_state": "standing"
+  },
+  {
     "prop_firm": "E8 Markets",
     "prop_firm_slug": "e8-funding",
     "standing_code": "CHUN",
-    "code": "CHUN"
+    "standing_discount": "50%",
+    "activation_link": "https://propfirmdiscount.com/go/e8funding",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/e8-funding/",
+    "deal_id": 6210,
+    "title": "5% OFF on Eligible Plans",
+    "date_published": "2025-08-10",
+    "date_exp": "Ended",
+    "discount_value": "5%",
+    "last_verified": "2025-08-10",
+    "offer_type": "coupon",
+    "scope": [
+      "Eligible Plans"
+    ],
+    "post_url": "https://propfirmdiscount.com/deals/e8-funding/e8-funding-coupon-2025-get-the-latest-discount-for-your-challenge/",
+    "code": "CHUN",
+    "code_state": "standing"
   }
 ]
