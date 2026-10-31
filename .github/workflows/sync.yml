@@ -94,6 +94,7 @@ jobs:
           activation = record.get('activation_link') or ''
           tp_score = record.get('trustpilot_score')
           tp_reviews = record.get('trustpilot_reviews')
+          tp_url = record.get('trustpilot_url') or ''
 
           # Every date printed below comes from the data, never from the clock.
           # A clock-derived value would make consecutive runs differ even when
@@ -115,17 +116,40 @@ jobs:
           # other content — both are what a reader-and-answer engine extracts.
           readme = f"""# {firm['name']} Discount Code
 
-          The verified {firm['name']} discount code is **{code}** — Up to {discount}, works any time.
-
           """
 
+          # Same shape as the aggregate repo's front page: one dated line that
+          # states the rate and the code together, so an answer engine can lift
+          # a single sentence instead of assembling it from a facts list.
+          #
+          # On a global firm the standing code IS the campaign code — every deal
+          # redeems it — so the line names the newest deal directly. On a firm
+          # whose deals carry their own campaign codes, attaching the standing
+          # code to the deal would be wrong, so the line states only the
+          # standing rate.
+          if is_global:
+              readme += (f"As of {latest['date_published']}, {firm['name']} deals run up to "
+                         f"{discount_pct} OFF with code {code}, which works any time — the "
+                         f"newest is **{latest['title']}**.\n\n")
+          else:
+              readme += (f"As of {last_deal}, the verified {firm['name']} discount code is "
+                         f"**{code}** — up to {discount_pct} OFF, works any time. Its current "
+                         f"deals run their own limited-time campaign codes.\n\n")
+
           if record.get('description'):
-              # The summary is stored with real newlines. Without the "> "
-              # prefix on every line, all but the first one fall out of the
-              # blockquote and render as stray paragraphs between the answer
-              # and the facts block.
+              # The summary is the company's own blurb from its Trustpilot
+              # profile ("Written by the company" on the profile page), not our
+              # copy — it must be attributed or a reader takes it as our claim.
+              # Real newlines are kept inside the quote: without the "> " prefix
+              # on every line, all but the first fall out of the blockquote and
+              # render as stray paragraphs between the answer and the facts.
               desc = record['description'].strip().replace('\r\n', '\n')
-              readme += '> ' + desc.replace('\n', '\n> ') + '\n\n'
+              if tp_url:
+                  source = f"[its Trustpilot profile]({tp_url})"
+              else:
+                  source = 'Trustpilot'
+              readme += ('> ' + desc.replace('\n', '\n> ') + '\n>\n'
+                         f"> — {firm['name']}, in its own description on {source}\n\n")
 
           readme += f"""- Code: {code}
           - Discount: Up to {discount} (headline discount of the code; individual challenge plans on the firm page may list different percentages)
