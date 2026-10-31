@@ -1,44 +1,64 @@
 ---
 license: other
+pretty_name: E8 Markets Discount Code
 configs:
 - config_name: e8-funding-deals
   data_files:
   - split: data
     path: datasets/e8-funding-deals.json
 tags:
+  - discount-code
   - discount-codes
+  - coupon-code
+  - promo-code
   - prop-firm
+  - funded-trader
   - trading
   - e8-funding
 ---
 
-# E8 Markets - Discount Codes & Deal History
+# E8 Markets Discount Code
 
-Historical deal observations from [PropFirmDiscount.com](https://propfirmdiscount.com) - The trusted prop firm coupon directory.
+The verified E8 Markets discount code is **CHUN** — Up to 50% off, works any time.
 
-**Prop firm page:** https://propfirmdiscount.com/prop-firm/e8-funding/
+> E8 Markets is the training ground where serious traders sharpen their edge, prove discipline, and cash results. We run live‑fidelity market feeds across FX, Futures, and Crypto inside a pro cockpit that measures what matters—your process. When your data shows repeatable skill, you withdraw on fast rails. No noise. No drama. Just proof → payout.
 
-**Verified exclusive discount code:** CHUN (works any time; live rate always on prop firm page)
+- Code: CHUN
+- Discount: Up to 50% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
+- Valid: standing code — no start date and no end date. It is not a limited-time campaign.
+- Last deal published: 2026-10-30
+- Trustpilot: 4.1/5 (3302 reviews)
+- Activate: https://propfirmdiscount.com/go/e8funding
+- Firm page: https://propfirmdiscount.com/prop-firm/e8-funding/
+- Full dataset: https://github.com/propfirmdiscounts/prop-firm-discount-codes
+- Code record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-Use discount code **CHUN** to get **50% off** on E8 Markets challenges and accounts in October 2026. This exclusive discount code is verified by our team at PropFirmDiscount.com and gives you the best pricing on all E8 Markets evaluation accounts.
+## Current E8 Markets deal: Up to 50% Off Winter ARC Account Entry Fees
+
+- Published: 2026-10-30
+- Offer ends: 2026-11-25
+- Offer: 50% off
+- Scope: Classic Markets E8 Pro, Classic Markets E8 One, Perpetual Futures E8 Pro, Perpetual Futures E8 One, Futures E8 Signature, Futures E8 Zero, Challenge Fee, Evaluation Fee
+- Code: CHUN
+- Deal page: https://propfirmdiscount.com/deals/e8-funding/e8-markets-winter-arc-promo-up-to-50-off/
+
+## E8 Markets discount code FAQ
+
+**What is the E8 Markets discount code?**
+
+CHUN. It is verified by PropFirmDiscount.com and takes up to 50% off E8 Markets challenges and accounts.
+
+**Does the E8 Markets discount code expire?**
+
+No. It is a standing code — there is no start date and no end date. Promotional deals are separate and are dated individually; the current one is listed above.
+
+**How much is the current E8 Markets deal?**
+
+**Up to 50% Off Winter ARC Account Entry Fees** — published 2026-10-30. Offer ends: 2026-11-25. The offer is 50% off.
 
 ---
 
-## Latest Deal
-
-### E8 Markets - Up to 50% Off Winter ARC Account Entry Fees
-
-**Published:** 2026-10-30  
-**Offer ends:** 2026-11-25  
-**Discount:** 50% off  
-**Scope:** Classic Markets E8 Pro, Classic Markets E8 One, Perpetual Futures E8 Pro, Perpetual Futures E8 One, Futures E8 Signature, Futures E8 Zero, Challenge Fee, Evaluation Fee  
-**Code:** CHUN  
-
-**Deal page:** https://propfirmdiscount.com/deals/e8-funding/e8-markets-winter-arc-promo-up-to-50-off/
-
----
-
-## Deal History
+## Deal history
 
 Total deals tracked: **18**
 
@@ -72,19 +92,20 @@ Total deals tracked: **18**
 
 ---
 
-## About This Repository
+## About this repository
 
-This repository tracks all historical deals for **E8 Markets** published on PropFirmDiscount.com. Updated automatically from the live API.
+This repository mirrors every deal **E8 Markets** has published on PropFirmDiscount.com, regenerated from the live API.
 
-**Data source:** PropFirmDiscount.com  
-**Prop firm profile:** https://propfirmdiscount.com/prop-firm/e8-funding/  
+- Data source: https://propfirmdiscount.com
+- Prop firm profile: https://propfirmdiscount.com/prop-firm/e8-funding/
+- All firms: https://github.com/propfirmdiscounts/prop-firm-discount-codes
 
 ## Freshness
 
-This mirror is synced from the live API on a schedule; the deal history
-above is the source of truth for what changed and when. Codes are
-re-verified continuously by the PropFirmDiscount team. Campaign codes
-come and go with each promotion; standing codes are re-verified yearly.
+Deal history above is the source of truth for what changed and when. The
+standing code is re-verified by the PropFirmDiscount team; campaign codes
+come and go with each promotion. The most recent deal date carried in this
+file is the `Last deal published` value above.
 
 ## License
 
