@@ -6,7 +6,7 @@ As of 2026-10-30, E8 Markets deals run up to 50% OFF with code CHUN, which works
 - Discount: Up to 50% off (what the code takes off the firm's newest deal; it applies to every E8 Markets deal, whatever form that deal is stated in)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-10-30
-- Trustpilot: 4.1/5 (3302 reviews)
+- Trustpilot: 4.1/5 (3303 reviews)
 - Activate: https://propfirmdiscount.com/go/e8funding
 - Firm page: https://propfirmdiscount.com/prop-firm/e8-funding/
 - Full dataset: https://github.com/propfirmdiscounts/prop-firm-discount-codes
