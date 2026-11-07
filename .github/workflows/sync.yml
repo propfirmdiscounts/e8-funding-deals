@@ -16,8 +16,8 @@ concurrency:
   cancel-in-progress: false
 
 env:
-  HF_NAMESPACE: prop-firm
-  HF_REPO_NAME: e8-funding-discount-codes
+  HF_NAMESPACE: e8markets
+  HF_REPO_NAME: e8-funding-deals
   FIRM_SLUG: e8-funding
   DEALSTORE_ID: 28
   FIRM_NAME: E8 Markets
