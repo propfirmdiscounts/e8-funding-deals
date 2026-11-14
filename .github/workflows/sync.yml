@@ -67,6 +67,7 @@ jobs:
           obs = json.load(open('observations.json'))
           firm = obs['dealstore']
           latest = obs['observations'][0]
+          raw_newest_title = (latest.get('title') or '').strip().rstrip('.')
 
           is_global = os.environ['IS_GLOBAL'] == 'true'
           code = os.environ['STANDING_CODE']
@@ -150,7 +151,7 @@ jobs:
           if is_global:
               answer = (f"As of {latest['date_published']}, {firm['name']} deals run "
                         f"{discount_pct} OFF with code {code}, which works any time — the "
-                        f"newest is {latest['title']}.")
+                        f"newest is {raw_newest_title}.")
           else:
               answer = (f"As of {last_deal}, the verified {firm['name']} discount code is "
                         f"{code} — {discount_pct} OFF, works any time. Its current "
