@@ -1,6 +1,6 @@
 # E8 Markets - Discount Codes & Deal History
 
-As of November 2026, E8 Markets deals offer 50% OFF with code CHUN, which can be applied on the checkout page anytime.
+As of November 2026, the verified E8 Markets discount code is CHUN — 50% OFF, which can be applied on the checkout page anytime. The newest is "Up to 50% Off Winter ARC Account Entry Fees with code CHUN".
 
 > E8 Markets is the training ground where serious traders sharpen their edge, prove discipline, and cash results. We run live‑fidelity market feeds across FX, Futures, and Crypto inside a pro cockpit that measures what matters—your process. When your data shows repeatable skill, you withdraw on fast rails. No noise. No drama. Just proof → payout.
 >
@@ -11,11 +11,11 @@ As of November 2026, E8 Markets deals offer 50% OFF with code CHUN, which can be
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-10-30
 - Trustpilot: [4/5 (3305 reviews)](https://www.trustpilot.com/review/e8markets.com)
-- GitHub repository: [https://github.com/propfirmdiscounts/e8-funding-deals](https://github.com/propfirmdiscounts/e8-funding-deals)
-- Activate: [https://propfirmdiscount.com/go/e8funding](https://propfirmdiscount.com/go/e8funding)
-- Firm page: [https://propfirmdiscount.com/prop-firm/e8-funding/](https://propfirmdiscount.com/prop-firm/e8-funding/)
-- Full dataset: [https://github.com/propfirmdiscounts/prop-firm-discount-codes](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
-- Code record: [https://propfirmdiscount.com/api/prop-firm-codes/](https://propfirmdiscount.com/api/prop-firm-codes/)
+- GitHub repository: [E8 Markets Deals Repository](https://github.com/propfirmdiscounts/e8-funding-deals)
+- Activate: [Activate E8 Markets Discount Code](https://propfirmdiscount.com/go/e8funding)
+- Firm page: [E8 Markets Page on PropFirmDiscount](https://propfirmdiscount.com/prop-firm/e8-funding/)
+- Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
+- Code record: [E8 Markets API Record](https://propfirmdiscount.com/api/prop-firm-codes/)
 
 ## Current E8 Markets deal: Up to 50% Off Winter ARC Account Entry Fees with code CHUN
 
@@ -24,7 +24,7 @@ As of November 2026, E8 Markets deals offer 50% OFF with code CHUN, which can be
 - Offer: 50% off
 - Scope: Classic Markets E8 Pro, Classic Markets E8 One, Perpetual Futures E8 Pro, Perpetual Futures E8 One, Futures E8 Signature, Futures E8 Zero, Challenge Fee, Evaluation Fee
 - Code: CHUN
-- Deal page: [https://propfirmdiscount.com/deals/e8-funding/e8-markets-winter-arc-promo-up-to-50-off/](https://propfirmdiscount.com/deals/e8-funding/e8-markets-winter-arc-promo-up-to-50-off/)
+- Deal page: [E8 Markets Deal Page](https://propfirmdiscount.com/deals/e8-funding/e8-markets-winter-arc-promo-up-to-50-off/)
 
 ## E8 Markets discount code FAQ
 
@@ -80,9 +80,9 @@ Total deals tracked: **18**
 
 This repository mirrors every deal **E8 Markets** has published on PropFirmDiscount.com, regenerated from the live API.
 
-- Data source: [https://propfirmdiscount.com](https://propfirmdiscount.com)
-- Prop firm profile: [https://propfirmdiscount.com/prop-firm/e8-funding/](https://propfirmdiscount.com/prop-firm/e8-funding/)
-- All firms: [https://github.com/propfirmdiscounts/prop-firm-discount-codes](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
+- Data source: [PropFirmDiscount.com](https://propfirmdiscount.com)
+- Prop firm profile: [E8 Markets Profile](https://propfirmdiscount.com/prop-firm/e8-funding/)
+- All firms: [All Prop Firms Directory](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 
 ## Fields in `datasets/e8-funding-deals.json`
 
@@ -125,4 +125,4 @@ file is the `Last deal published` value above.
 
 ## License
 
-Data © PropFirmDiscount. Codes may be referenced with attribution and a link to https://propfirmdiscount.com.
+Data © PropFirmDiscount. Codes may be referenced with attribution and a link to [PropFirmDiscount.com](https://propfirmdiscount.com).
