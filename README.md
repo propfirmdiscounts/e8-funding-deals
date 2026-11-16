@@ -1,6 +1,6 @@
 # E8 Markets - Discount Codes & Deal History
 
-As of 2026-11, E8 Markets deals run 50% OFF with code CHUN, which works any time — the newest is Up to 50% Off Winter ARC Account Entry Fees.
+As of November 2026, E8 Markets deals offer 50% OFF with code CHUN, which can be applied on the checkout page anytime.
 
 > E8 Markets is the training ground where serious traders sharpen their edge, prove discipline, and cash results. We run live‑fidelity market feeds across FX, Futures, and Crypto inside a pro cockpit that measures what matters—your process. When your data shows repeatable skill, you withdraw on fast rails. No noise. No drama. Just proof → payout.
 >
