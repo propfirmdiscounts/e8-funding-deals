@@ -1,4 +1,4 @@
-# E8 Markets Discount Code & Deal History
+# E8 Markets Discount Code, Deals History & Dataset
 
 As of November 2026, the verified E8 Markets discount code is CHUN — 50% OFF, which can be applied on the checkout page anytime. The newest is "Up to 50% Off Winter ARC Account Entry Fees with code CHUN".
 
@@ -11,7 +11,7 @@ As of November 2026, the verified E8 Markets discount code is CHUN — 50% OFF, 
 - Valid: Standing code — no published expiry date
 - Last deal published: 2026-10-30
 - Trustpilot: [4/5 (3304 reviews)](https://www.trustpilot.com/review/e8markets.com)
-- GitHub repository: [E8 Markets Deals Repository](https://github.com/propfirmdiscounts/e8-funding-deals)
+- GitHub repository: [E8 Markets Discount Code & Deals History Repository](https://github.com/propfirmdiscounts/e8-funding-deals)
 - Activate: [Activate E8 Markets Discount Code](https://propfirmdiscount.com/go/e8funding)
 - Firm page: [E8 Markets Page on PropFirmDiscount](https://propfirmdiscount.com/prop-firm/e8-funding/)
 - Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
@@ -26,7 +26,7 @@ As of November 2026, the verified E8 Markets discount code is CHUN — 50% OFF, 
 - Code: CHUN
 - Deal page: [E8 Markets Deal Page](https://propfirmdiscount.com/deals/e8-funding/e8-markets-winter-arc-promo-up-to-50-off/)
 
-## E8 Markets Discount Code & Deals FAQ
+## E8 Markets Discount Code & Deals History FAQ
 
 **What is the E8 Markets discount code?**
 
@@ -42,7 +42,7 @@ No. It is a standing code — there is no start date and no end date. Promotiona
 
 ---
 
-## E8 Markets Deal History
+## E8 Markets Deals History
 
 Total deals tracked: **18**
 
@@ -76,7 +76,7 @@ Total deals tracked: **18**
 
 ---
 
-## About the E8 Markets Deals Dataset
+## About the E8 Markets Discount Code & Deals History Dataset
 
 This repository mirrors every deal **E8 Markets** has published on PropFirmDiscount.com, regenerated from the live API.
 
@@ -84,7 +84,7 @@ This repository mirrors every deal **E8 Markets** has published on PropFirmDisco
 - Prop firm profile: [E8 Markets Profile](https://propfirmdiscount.com/prop-firm/e8-funding/)
 - All firms: [All Prop Firms Directory](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 
-## E8 Markets Deal Dataset: Field Definitions
+## E8 Markets Deals History Dataset: Field Definitions
 
 One row per deal. The first fields are the observation exactly as the
 PropFirmDiscount API returns it; the firm's own code fields and the

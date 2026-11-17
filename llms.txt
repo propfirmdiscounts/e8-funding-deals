@@ -1,4 +1,4 @@
-# E8 Markets Discount Codes
+# E8 Markets Discount Code & Deals History
 
 This dataset tracks historical deal observations for E8 Markets from PropFirmDiscount.com.
 
