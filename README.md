@@ -1,6 +1,6 @@
 # E8 Markets Discount Code, Deals History & Dataset
 
-As of November 2026, the verified E8 Markets discount code is CHUN — 10% OFF, which can be applied on the checkout page anytime. The newest is "Classic v2 Launch: 10% Off with code CHUN".
+As of November 2026, the verified E8 Markets discount code is CHUN — 10% OFF, which can be applied on the checkout page anytime. The newest is "Classic v2 Launch: 10% Off (code CHUN)".
 
 > E8 Markets is the training ground where serious traders sharpen their edge, prove discipline, and cash results. We run live‑fidelity market feeds across FX, Futures, and Crypto inside a pro cockpit that measures what matters—your process. When your data shows repeatable skill, you withdraw on fast rails. No noise. No drama. Just proof → payout.
 >
@@ -17,7 +17,7 @@ As of November 2026, the verified E8 Markets discount code is CHUN — 10% OFF, 
 - Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 - Code record: [E8 Markets API Record](https://propfirmdiscount.com/api/prop-firm-codes/)
 
-## Latest E8 Markets deal: Classic v2 Launch: 10% Off with code CHUN
+## Latest E8 Markets deal: Classic v2 Launch: 10% Off (code CHUN)
 
 - Published: 2026-11-18
 - Offer ends: Limited time
@@ -38,7 +38,7 @@ No. It is a standing code — there is no start date and no end date. Promotiona
 
 **How much is the current E8 Markets deal?**
 
-**Classic v2 Launch: 10% Off with code CHUN** — published 2026-11-18. Offer ends: Limited time. The offer is 10% off.
+**Classic v2 Launch: 10% Off (code CHUN)** — published 2026-11-18. Offer ends: Limited time. The offer is 10% off.
 
 ---
 
@@ -50,30 +50,30 @@ Total deals tracked: **19**
 
 | Deal Date | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|
-| 2026-11-18 | E8 Markets: Classic v2 Launch: 10% Off with code CHUN | 10% off | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/e8-funding/e8-markets-classic-v2-launch-10-off/) |
-| 2026-10-30 | E8 Markets: Up to 50% Off Winter ARC Account Entry Fees with code CHUN | 50% off | 2026-11-25 | — | [View Deal](https://propfirmdiscount.com/deals/e8-funding/e8-markets-winter-arc-promo-up-to-50-off/) |
-| 2026-10-17 | E8 Markets: Half Price on Retiring Classic and Arc Evaluations with code CHUN | 50% off | 2026-10-20 (ended) | — | [View Deal](https://propfirmdiscount.com/deals/e8-funding/e8-markets-50-off-signature-classic/) |
-| 2026-10-05 | E8 Markets: Up To 50% Discount Plus First Payout Bonus Challenge Entitlement with code CHUN | 50% off | 2026-10-25 (ended) | — | [View Deal](https://propfirmdiscount.com/deals/e8-funding/e8-markets-winter-arc-promo-50-off/) |
-| 2026-08-27 | E8 Markets: Up to 50% Off Challenge Fees and Perpetual Models with code CHUN | 50% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/e8-funding/e8-markets-up-to-50-percent-off-evaluations/) |
-| 2026-06-01 | E8 Markets: 30% Off E8Pro and 10% Off All Existing Evaluations with code CHUN | 30% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/e8-funding/e8-markets-30-off-e8pro-10-off-existing-accounts/) |
-| 2026-05-27 | E8 Markets: 30% Off E8PRO v2 and 10% Off All Other Evaluation Accounts with code CHUN | 30% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/e8-funding/e8-markets-30-off-e8pro-v2-evaluation/) |
-| 2026-05-06 | E8 Markets: Up to 20% Off Signature and 10% Off E8 One Upfront Fee with code CHUN | 20% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/e8-funding/e8-markets-discount-signature-e8-one/) |
-| 2026-04-20 | E8 Markets: 40% Off Signature and 30% Off E8 One Challenge Pricing with code CHUN | 40% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/e8-funding/e8-markets-discount-april-2026/) |
-| 2026-04-07 | E8 Markets: 40% Off Evaluation Accounts $50K and Under with code CHUN | 40% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/e8-funding/e8-markets-40-percent-discount-50k-under/) |
-| 2026-03-17 | E8 Markets: 10% Off All Trading Challenges with code CHUN | 10% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/e8-funding/e8-markets-10-percent-off-evaluations/) |
-| 2026-03-03 | E8 Markets: Up to 50% Discount on First Evaluation Purchases with code CHUN | 50% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/e8-funding/e8-markets-50-percent-off-signature-one/) |
-| 2026-02-13 | E8 Markets: 20% Discount on Trading Challenge Entry Fees with code CHUN | 20% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/e8-funding/e8-markets-20-percent-discount-evaluation-accounts/) |
-| 2026-02-09 | E8 Markets: 20% Discount on Static Crypto Challenge (Until Feb 28) with code CHUN | 20% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/e8-funding/e8-markets-static-crypto-plan-discount/) |
-| 2026-01-28 | E8 Markets: 35% Discount on First Two Signature Accounts and 20% Off E8 One with code CHUN | 35% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/e8-funding/e8-markets-signature-promo-35-off/) |
+| 2026-11-18 | E8 Markets: Classic v2 Launch: 10% Off (code CHUN) | 10% off | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/e8-funding/e8-markets-classic-v2-launch-10-off/) |
+| 2026-10-30 | E8 Markets: Up to 50% Off Winter ARC Account Entry Fees (code CHUN) | 50% off | 2026-11-25 | — | [View Deal](https://propfirmdiscount.com/deals/e8-funding/e8-markets-winter-arc-promo-up-to-50-off/) |
+| 2026-10-17 | E8 Markets: Half Price on Retiring Classic and Arc Evaluations (code CHUN) | 50% off | 2026-10-20 (ended) | — | [View Deal](https://propfirmdiscount.com/deals/e8-funding/e8-markets-50-off-signature-classic/) |
+| 2026-10-05 | E8 Markets: Up To 50% Discount Plus First Payout Bonus Challenge Entitlement (code CHUN) | 50% off | 2026-10-25 (ended) | — | [View Deal](https://propfirmdiscount.com/deals/e8-funding/e8-markets-winter-arc-promo-50-off/) |
+| 2026-08-27 | E8 Markets: Up to 50% Off Challenge Fees and Perpetual Models (code CHUN) | 50% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/e8-funding/e8-markets-up-to-50-percent-off-evaluations/) |
+| 2026-06-01 | E8 Markets: 30% Off E8Pro and 10% Off All Existing Evaluations (code CHUN) | 30% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/e8-funding/e8-markets-30-off-e8pro-10-off-existing-accounts/) |
+| 2026-05-27 | E8 Markets: 30% Off E8PRO v2 and 10% Off All Other Evaluation Accounts (code CHUN) | 30% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/e8-funding/e8-markets-30-off-e8pro-v2-evaluation/) |
+| 2026-05-06 | E8 Markets: Up to 20% Off Signature and 10% Off E8 One Upfront Fee (code CHUN) | 20% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/e8-funding/e8-markets-discount-signature-e8-one/) |
+| 2026-04-20 | E8 Markets: 40% Off Signature and 30% Off E8 One Challenge Pricing (code CHUN) | 40% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/e8-funding/e8-markets-discount-april-2026/) |
+| 2026-04-07 | E8 Markets: 40% Off Evaluation Accounts $50K and Under (code CHUN) | 40% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/e8-funding/e8-markets-40-percent-discount-50k-under/) |
+| 2026-03-17 | E8 Markets: 10% Off All Trading Challenges (code CHUN) | 10% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/e8-funding/e8-markets-10-percent-off-evaluations/) |
+| 2026-03-03 | E8 Markets: Up to 50% Discount on First Evaluation Purchases (code CHUN) | 50% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/e8-funding/e8-markets-50-percent-off-signature-one/) |
+| 2026-02-13 | E8 Markets: 20% Discount on Trading Challenge Entry Fees (code CHUN) | 20% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/e8-funding/e8-markets-20-percent-discount-evaluation-accounts/) |
+| 2026-02-09 | E8 Markets: 20% Discount on Static Crypto Challenge (Until Feb 28) (code CHUN) | 20% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/e8-funding/e8-markets-static-crypto-plan-discount/) |
+| 2026-01-28 | E8 Markets: 35% Discount on First Two Signature Accounts and 20% Off E8 One (code CHUN) | 35% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/e8-funding/e8-markets-signature-promo-35-off/) |
 
 ### 2025 (4 deals)
 
 | Deal Date | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|
-| 2025-12-04 | E8 Markets: 25% Off New Signature 1-Step Model and $98 Entry Fee with code CHUN | 25% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/e8-funding/e8-markets-signature-launch-25-percent-off/) |
-| 2025-09-26 | E8 Markets: 15% OFF + Free Reset (Limited-Time Safety Net) with code CHUN | 15% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/e8-funding/e8-markets-15-off-free-reset-limited-time-safety-net/) |
-| 2025-09-09 | E8 Markets: 5% OFF on Eligible Plans with code CHUN | 5% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/e8-funding/coupon-10-for-e8-funding/) |
-| 2025-08-10 | E8 Markets: 5% OFF on Eligible Plans with code CHUN | 5% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/e8-funding/e8-funding-coupon-2025-get-the-latest-discount-for-your-challenge/) |
+| 2025-12-04 | E8 Markets: 25% Off New Signature 1-Step Model and $98 Entry Fee (code CHUN) | 25% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/e8-funding/e8-markets-signature-launch-25-percent-off/) |
+| 2025-09-26 | E8 Markets: 15% OFF + Free Reset (Limited-Time Safety Net) (code CHUN) | 15% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/e8-funding/e8-markets-15-off-free-reset-limited-time-safety-net/) |
+| 2025-09-09 | E8 Markets: 5% OFF on Eligible Plans (code CHUN) | 5% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/e8-funding/coupon-10-for-e8-funding/) |
+| 2025-08-10 | E8 Markets: 5% OFF on Eligible Plans (code CHUN) | 5% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/e8-funding/e8-funding-coupon-2025-get-the-latest-discount-for-your-challenge/) |
 
 ---
 
